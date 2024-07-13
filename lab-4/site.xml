@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<shedule>
+    <day>Четверг</day>
+    <lesson>
+        <time>13:30-15:00</time>
+        <weeks>2, 4, 6, 8, 10, 12, 14, 16</weeks>
+        <place>Кронверкский пр., д.49, лит.А</place>
+        <class>2426 (БЫВШ. 422) АУД.</class>
+        <discipline>ИНФОРМАТИКА(ЛЕК)</discipline>
+        <tw>четная неделя</tw>
+        <teacher>Болдырева Елена Александровна</teacher>
+        <format>Очно - дистанционный</format>
+    </lesson>
+    <lesson>
+        <time>15:20-16:50</time>
+        <weeks>2, 4, 6, 8, 10, 12, 14, 16</weeks>
+        <place>Кронверкский пр., д.49, лит.А</place>
+        <class>2435/4 (БЫВШ. 431В) АУД.</class>
+        <discipline>ИНФОРМАТИКА(ЛАБ)</discipline>
+        <tw>четная неделя</tw>
+        <teacher>Болдырева Елена Александровна</teacher>
+        <format>Очно - дистанционный</format>
+    </lesson>
+    <lesson>
+        <time>17:00-18:30</time>
+        <weeks>2, 4, 6, 8, 10, 12, 14, 16</weeks>
+        <place>Кронверкский пр., д.49, лит.А</place>
+        <class>2435/4 (БЫВШ. 431В) АУД.</class>
+        <discipline>ИНФОРМАТИКА(ЛЕК)</discipline>
+        <tw>четная неделя</tw>
+        <teacher>Болдырева Елена Александровна</teacher>
+        <format>Очно - дистанционный</format>
+    </lesson>
+</shedule>
